@@ -1,2 +1,2 @@
-# schoolManagement
+# schoolapp
 new repository
